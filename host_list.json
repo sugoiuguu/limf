@@ -1,12 +1,18 @@
 [
         ["http://1339.cf/", "http://b.1339.cf/", "1339.cf"],
+        ["http://aishiteru.moe/", "http://a.aishiteru.moe/", "aishiteru.moe"],
+        ["http://comfy.moe/", "http://comfy.moe/", "comfy.moe"],
+        ["http://cuntflaps.me/", "http://a.cuntflaps.me/", "cuntflaps.me"],
+        ["http://files.plebeianparty.com/", "http://a.plebeianparty.com/", "plebianparty.com"],
+        ["http://g.zxq.co/", "http://y.zxq.co/", "zxq.co"],
+        ["http://glop.me/", "http://gateway.glop.me/ipfs/", "glop.me (IPFS!)"],
+        ["http://kyaa.sg/", "http://r.kyaa.sg/", "kyaa.sg"],
         ["http://pomf.cat/", "http://a.pomf.cat/", "pomf.cat"],
         ["http://pomf.hummingbird.moe/", "http://a.pomf.hummingbird.moe/", "pomf.hummingbird.moe"],
-        ["https://mixtape.moe/", "https://my.mixtape.moe/", "mixtape.moe"],
+        ["https://aww.moe/", "https://aww.moe/", "aww.moe"],
         ["https://maxfile.ro/static/", "https://d.maxfile.ro/", "maxfile.ro"],
-        ["https://pomf.io/", "https://u.pomf.io/", "pomf.io"],
-        ["http://g.zxq.co/", "http://y.zxq.co/", "zxq.co"],
-        ["https://openhost.xyz/", "https://dl.openhost.xyz/", "openhost.xyz"],
+        ["https://mixtape.moe/", "https://my.mixtape.moe/", "mixtape.moe"],
         ["https://nigger.cat/", "https://a.nigger.cat/", "nigger.cat"],
-        ["https://aww.moe/", "https://aww.moe/", "aww.moe"]
+        ["https://openhost.xyz/", "https://dl.openhost.xyz/", "openhost.xyz"],
+        ["https://pomf.io/", "https://u.pomf.io/", "pomf.io"]
 ]
