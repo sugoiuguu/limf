@@ -12,10 +12,10 @@
         ["http://up.che.moe/", "http://cdn.che.moe/", "up.che.moe"],
         ["https://aww.moe/", "https://aww.moe/", "aww.moe"],
         ["https://cocaine.ninja/", "https://a.cocaine.ninja/",  "cocaine.ninja"],
-        ["https://maxfile.ro/static/", "https://d.maxfile.ro/", "maxfile.ro"],
         ["https://mixtape.moe/", "https://my.mixtape.moe/", "mixtape.moe"],
         ["https://nigger.cat/", "https://a.nigger.cat/", "nigger.cat"],
         ["https://nekko.io/", "https://a.nekko.io/", "nekko.io"],
         ["https://openhost.xyz/", "https://dl.openhost.xyz/", "openhost.xyz"],
-        ["https://pomf.is/", "https://u.pomf.is/", "pomf.is"]
+        ["https://pomf.is/", "https://u.pomf.is/", "pomf.is"],
+        ["https://pomf.memenet.org/", "https://img.memenet.org/", "pomf.memenet.org"]
 ]
